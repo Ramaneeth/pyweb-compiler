@@ -1,0 +1,5 @@
+{
+  "name": "PyWeb Compiler",
+  "description": "A fully-functional, browser-based Python IDE and compiler powered by Pyodide and Gemini AI for intelligent code assistance.",
+  "requestFramePermissions": []
+}
